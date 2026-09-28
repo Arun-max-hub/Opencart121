@@ -1,0 +1,18 @@
+15:30:46.091 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:25)oggger - ****starting Testcase Execution********
+15:30:46.220 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:29)oggger - Clicked on myaccount
+15:30:47.965 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:32)oggger - clicked on registration page
+15:30:47.965 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:36)oggger - providing cusotmer details
+15:30:48.759 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:50)oggger - validation message
+15:30:50.044 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:61)oggger - ***** finished **********
+15:40:31.700 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:25)oggger - ****starting Testcase Execution********
+15:40:31.892 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:29)oggger - Clicked on myaccount
+15:40:32.731 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:32)oggger - clicked on registration page
+15:40:32.736 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:36)oggger - providing cusotmer details
+15:40:35.513 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:50)oggger - validation message
+15:40:35.558 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:71)oggger - ***** finished **********
+15:41:34.602 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:25)oggger - ****starting Testcase Execution********
+15:41:34.724 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:29)oggger - Clicked on myaccount
+15:41:35.177 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:32)oggger - clicked on registration page
+15:41:35.188 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:36)oggger - providing cusotmer details
+15:41:37.232 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:50)oggger - validation message
+15:41:37.271 [main] INFO  Testcases.TC001_Accountregistration.verify(TC001_Accountregistration.java:71)oggger - ***** finished **********

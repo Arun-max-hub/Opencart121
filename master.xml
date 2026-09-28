@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="master Suite">
+
+ <listeners>
+  <listener class-name="utilities.ExtentReportManager"/>
+  
+ 
+ </listeners>
+
+    <test thread-count="5" name="Test">
+    
+     <parameter name ="osv" value ="Windows"/>
+     <parameter name = "browser" value="chrome"/>
+       
+       
+        <classes>
+           <class name="Testcases.TC001_Accountregistration"/>
+            <class name="Testcases.TC002_Logintest"/>
+            
+        </classes>
+
+    </test> 	
+
+</suite>

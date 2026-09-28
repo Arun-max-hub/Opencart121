@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Failed suite [master Suite]">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="osv" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Testcases.TC002_Logintest">
+        <methods>
+          <include name="verify"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TC002_Logintest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [master Suite] -->

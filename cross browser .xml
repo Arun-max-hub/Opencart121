@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="test" thread-count="5">
+
+    <test name="chrome Test">
+                
+         <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+            <class name="Testcases.TC001_Accountregistration"/>
+        </classes>
+
+    </test>
+
+
+    <test name="Firefox Test">
+          <parameter name="os" value="windows"/>
+        <parameter name="browser" value="firefox"/>
+
+        <classes>
+            <class name="Testcases.TC001_Accountregistration"/>
+        </classes>
+
+    </test>
+
+</suite>
