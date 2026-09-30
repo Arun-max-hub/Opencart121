@@ -40,6 +40,7 @@ public class Test {
               if(value.compareTo(S1) > 0 )
               {
             	  S1=value;
+            	  System.out.println("aruntest");
               }
        
             
